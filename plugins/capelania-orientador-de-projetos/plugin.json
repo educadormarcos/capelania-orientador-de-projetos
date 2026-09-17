@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "capelania-orientador-de-projetos",
+  "version": "0.2.0",
+  "description": "Orienta projetos cristãos de capelania escolar, missão na cidade e iniciativas híbridas com planejamento, cuidado e proteção.",
+  "author": {
+    "name": "Instituto Alfa e Ômega",
+    "url": "https://iacapelania.oscalfaeomega.org"
+  },
+  "homepage": "https://iacapelania.oscalfaeomega.org",
+  "repository": "https://github.com/educadormarcos/capelania-orientador-de-projetos",
+  "license": "MIT",
+  "keywords": ["capelania", "educacao", "missao", "projetos", "protecao"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "CapelanIA – Orientador de Projetos",
+        "shortDescription": "Projetos cristãos responsáveis, relacionais e executáveis.",
+        "longDescription": "Ajuda capelães, voluntários e líderes a construir projetos de capelania escolar, missão na cidade e iniciativas híbridas, com fundamentação bíblica, competências socioemocionais, adequação por idade, liberdade religiosa e proteção de pessoas vulneráveis.",
+        "developerName": "Instituto Alfa e Ômega · Educador Marcos",
+        "category": "Education",
+        "capabilities": [],
+        "websiteURL": "https://iacapelania.oscalfaeomega.org",
+        "privacyPolicyURL": "https://iacapelania.oscalfaeomega.org/privacidade",
+        "termsOfServiceURL": "https://iacapelania.oscalfaeomega.org/termos",
+        "defaultPrompt": [
+          "Oriente-me passo a passo na criação de um projeto de capelania escolar.",
+          "Ajude-me a criar um projeto missionário para uma necessidade da cidade.",
+          "Revise meu projeto quanto à proteção, liberdade religiosa e avaliação."
+        ],
+        "brandColor": "#00666B",
+        "composerIcon": "./assets/capelania-logo.png",
+        "logo": "./assets/capelania-logo.png"
+      }
+    }
+  }
+}

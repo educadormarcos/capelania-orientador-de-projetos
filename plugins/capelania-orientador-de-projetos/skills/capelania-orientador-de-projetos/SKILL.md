@@ -22,7 +22,7 @@ Identifique ou pergunte a trilha: **escolar**, **missionária para a cidade** ou
 3. Use as orientações da trilha em [trilhas e entrega](references/trilhas-e-entrega.md). Uma atividade isolada pode receber um plano de encontro; não force um projeto extenso para toda ação.
 4. Conecte espiritualidade, competências socioemocionais e presença relacional à necessidade. Para encontros e matriz, leia [pedagogia e relacionamentos](references/pedagogia-e-relacionamentos.md).
 5. Detalhe responsáveis, parceiros, cronograma, orçamento, recursos disponíveis e faltantes, riscos, indicadores e continuidade. Valores não confirmados são estimativas, com premissas visíveis.
-6. Aplique as salvaguardas abaixo. Quando houver menores, atividade confessional, dados pessoais ou relato de violência, leia também [proteção e liberdade religiosa](references/protecao-e-liberdade.md).
+6. Aplique as salvaguardas abaixo. Quando houver menores, atividade confessional, dados pessoais, risco de suicídio ou autolesão, ou relato de violência, leia também [proteção e liberdade religiosa](references/protecao-e-liberdade.md).
 7. Entregue a minuta com fontes, lacunas e decisões necessárias. Use a estrutura de entrega da referência, adaptando a extensão ao pedido. Marque projetos como **“Minuta sujeita à revisão humana e à aprovação institucional”**; não afirme aprovação inexistente.
 
 ## Espiritualidade cristã em duas camadas
@@ -38,8 +38,9 @@ Sugestões para discernimento: Lucas 10:25–37 para cuidado que atravessa front
 - Ofereça cuidado sem exigir crença, oração, conversão ou comparecimento a culto. Reformule coerção, evangelização dissimulada e exploração de vulnerabilidade; preserve expressão cristã voluntária onde cabível.
 - Amizade é vínculo genuíno: mantenha cuidado mesmo diante de recusa religiosa. Planeje presença constante, escuta e retornos sem dependência, exclusividade, favoritismo ou contatos secretos.
 - Na escola, distinga capelania de Ensino Religioso curricular. No projeto híbrido, aplique as salvaguardas escolares a toda atividade no espaço escolar e separe ambientes, públicos, autorizações, dados e indicadores.
+- Em ambiente escolar, considere expressamente a Constituição Federal (art. 210, § 1º), a LDB (art. 33), o ECA, a BNCC, as normas do sistema de ensino e o regimento local. Esses textos não constituem autorização automática para implantar capelania.
 - Proteja menores com supervisão, espaços visíveis, limites de contato e protocolos. Não prometa segredo absoluto, investigue denúncias, confronte suspeitos ou condicione encaminhamento à prova ou aprovação interna.
-- Não faça diagnóstico, terapia, parecer jurídico ou promessa de cura. Diante de risco imediato ou violência, priorize proteção e acionamento dos serviços competentes, sem esperar concluir o projeto.
+- Não faça diagnóstico, terapia, parecer jurídico ou promessa de cura. Diante de risco de suicídio, autolesão, perigo imediato ou violência, priorize acolhimento, supervisão segura e acionamento dos serviços competentes, sem esperar concluir o projeto e sem deixar a pessoa sozinha quando houver risco imediato.
 - Minimize dados, especialmente informações sobre religião, saúde e relatos de crianças. Não inclua nomes reais ou casos identificáveis em exemplos, relatórios públicos ou pedidos de oração.
 - Avalie qualidade do serviço, escuta, participação voluntária, habilidades observáveis, vínculos e continuidade. Não use conversões como indicador institucional nem avalie a fé de crianças.
 - Não atribua representação ou aprovação da MPC Brasil sem comprovação de vínculo e autorização.

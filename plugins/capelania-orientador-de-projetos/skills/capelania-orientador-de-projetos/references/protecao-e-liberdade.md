@@ -8,7 +8,7 @@ Não use contas pessoais ou mensagens secretas para acompanhar menores. Defina c
 
 Os slides de 2023 apresentam diretrizes de proteção, mas não comprovam a versão vigente de uma política completa. Solicite o protocolo atual para execução; enquanto isso, prepare a minuta com lacuna explícita, sem inventar procedimentos como se fossem aprovados pela MPC.
 
-## Relato de violência ou risco
+## Relato de violência, suicídio, autolesão ou risco
 
 Priorize proteção sobre o fluxo de planejamento. Acolha sem culpabilizar; ouça o relato espontâneo sem pedir detalhes ou repetir entrevistas. Verifique apenas o necessário para segurança imediata. Explique em linguagem simples que precisará buscar ajuda e compartilhar somente com quem protege.
 
@@ -16,13 +16,15 @@ Não prometa segredo absoluto, faça investigação, confronte o suspeito ou ten
 
 Em perigo imediato, oriente atendimento de emergência local e proteção presencial segura. Acione os órgãos competentes e o fluxo institucional cabível, sem aguardar prova, testemunhas ou permissão da direção. A comunicação interna não substitui os deveres legais de comunicação externa. Se a liderança estiver envolvida ou se omitir, não a torne barreira ao encaminhamento.
 
+Em fala sobre suicídio ou autolesão, leve o relato a sério, mantenha supervisão presencial segura e acione imediatamente o responsável institucional e os serviços de urgência ou proteção cabíveis. Não prometa sigilo, não deixe a pessoa sozinha diante de risco imediato, não faça interrogatório e não transforme oração ou aconselhamento pastoral em substituto de atendimento profissional. Evite solicitar no chat nomes, métodos, imagens ou detalhes identificáveis.
+
 O [ECA, art. 13](https://www.planalto.gov.br/ccivil_03/leis/l8069.htm) prevê comunicação ao Conselho Tutelar para suspeita ou confirmação das formas de violência ali indicadas. A [Lei 13.431/2017, art. 13](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13431.htm) prevê comunicação imediata de violência aos canais competentes. Textos oficiais consultados em 17/09/2026; confira atualizações e contatos locais quando aplicados. Não transforme isso em parecer jurídico sobre caso individual.
 
 ## Liberdade religiosa e prevenção de proselitismo
 
 Informe previamente finalidade, identidade cristã, conteúdo e forma de participação. Permita recusa, saída e alternativa adequada sem constrangimento, punição, prejuízo educacional ou perda de assistência. Nenhum alimento, atendimento, amizade ou benefício deve depender de oração, culto, literatura ou conversão.
 
-Na escola pública, não use a autoridade escolar para impor adesão religiosa. O [art. 33 da LDB](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm), consultado em 17/09/2026, trata do Ensino Religioso facultativo no ensino fundamental público e veda proselitismo nesse âmbito. Ele não é autorização genérica para implantar capelania. Verifique Constituição, normas locais, sistema de ensino e regimento para a situação concreta.
+Na escola pública, não use a autoridade escolar para impor adesão religiosa. O [art. 210, § 1º, da Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicaocompilado.htm) prevê matrícula facultativa no Ensino Religioso das escolas públicas de ensino fundamental. O [art. 33 da LDB](https://www.planalto.gov.br/ccivil_03/leis/l9394.htm) disciplina esse componente curricular e veda proselitismo. Nenhum dos dispositivos é autorização genérica para implantar capelania, culto ou abordagem religiosa extracurricular. Verifique também normas locais, sistema de ensino, regimento e autorizações para a situação concreta.
 
 Reformulações úteis:
 

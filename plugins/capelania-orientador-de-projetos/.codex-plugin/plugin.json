@@ -1,18 +1,33 @@
 {
   "name": "capelania-orientador-de-projetos",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Orienta projetos cristãos de capelania escolar, missão na cidade e iniciativas híbridas com planejamento, espiritualidade, competências socioemocionais e proteção.",
   "author": {
-    "name": "Educador Marcos"
+    "name": "Instituto Alfa e Ômega",
+    "url": "https://iacapelania.oscalfaeomega.org"
   },
+  "homepage": "https://iacapelania.oscalfaeomega.org",
+  "repository": "https://github.com/educadormarcos/capelania-orientador-de-projetos",
+  "license": "MIT",
+  "keywords": ["capelania", "educacao", "missao", "projetos", "protecao"],
   "skills": "./skills/",
   "interface": {
     "displayName": "CapelanIA – Orientador de Projetos",
     "shortDescription": "Construa projetos cristãos responsáveis, relacionais e executáveis.",
     "longDescription": "Ajuda capelães, voluntários e líderes a construir projetos de capelania escolar, missão na cidade e iniciativas híbridas, com fundamentação bíblica, competências socioemocionais, adequação por idade, liberdade religiosa e proteção de pessoas vulneráveis.",
-    "developerName": "Educador Marcos",
-    "category": "Productivity",
+    "developerName": "Instituto Alfa e Ômega · Educador Marcos",
+    "category": "Education",
     "capabilities": [],
-    "defaultPrompt": "Ajude-me a transformar uma necessidade real em um projeto de capelania ou missão, construindo comigo passo a passo."
+    "websiteURL": "https://iacapelania.oscalfaeomega.org",
+    "privacyPolicyURL": "https://iacapelania.oscalfaeomega.org/privacidade",
+    "termsOfServiceURL": "https://iacapelania.oscalfaeomega.org/termos",
+    "defaultPrompt": [
+      "Oriente-me passo a passo na criação de um projeto de capelania escolar.",
+      "Ajude-me a criar um projeto missionário para uma necessidade da cidade.",
+      "Revise meu projeto quanto à proteção, liberdade religiosa e avaliação."
+    ],
+    "brandColor": "#00666B",
+    "composerIcon": "./assets/capelania-logo.png",
+    "logo": "./assets/capelania-logo.png"
   }
 }
