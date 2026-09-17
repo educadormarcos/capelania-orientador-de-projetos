@@ -1,0 +1,19 @@
+{
+  "name": "capelania-orientador-de-projetos",
+  "version": "0.1.0",
+  "description": "Capelania Orientador De Projetos plugin",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Capelania Orientador De Projetos",
+    "shortDescription": "Use Capelania Orientador De Projetos in Codex.",
+    "longDescription": "Capelania Orientador De Projetos adds a local Codex plugin scaffold.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me use Capelania Orientador De Projetos."
+  }
+}
+
