@@ -1,19 +1,18 @@
 {
   "name": "capelania-orientador-de-projetos",
   "version": "0.1.0",
-  "description": "Capelania Orientador De Projetos plugin",
+  "description": "Orienta projetos cristãos de capelania escolar, missão na cidade e iniciativas híbridas com planejamento, espiritualidade, competências socioemocionais e proteção.",
   "author": {
-    "name": "Local developer"
+    "name": "Educador Marcos"
   },
   "skills": "./skills/",
   "interface": {
-    "displayName": "Capelania Orientador De Projetos",
-    "shortDescription": "Use Capelania Orientador De Projetos in Codex.",
-    "longDescription": "Capelania Orientador De Projetos adds a local Codex plugin scaffold.",
-    "developerName": "Local developer",
+    "displayName": "CapelanIA – Orientador de Projetos",
+    "shortDescription": "Construa projetos cristãos responsáveis, relacionais e executáveis.",
+    "longDescription": "Ajuda capelães, voluntários e líderes a construir projetos de capelania escolar, missão na cidade e iniciativas híbridas, com fundamentação bíblica, competências socioemocionais, adequação por idade, liberdade religiosa e proteção de pessoas vulneráveis.",
+    "developerName": "Educador Marcos",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Help me use Capelania Orientador De Projetos."
+    "defaultPrompt": "Ajude-me a transformar uma necessidade real em um projeto de capelania ou missão, construindo comigo passo a passo."
   }
 }
-
