@@ -1,0 +1,21 @@
+{
+  "name": "capelania-local",
+  "interface": {
+    "displayName": "Capelania Local"
+  },
+  "plugins": [
+    {
+      "name": "capelania-orientador-de-projetos",
+      "source": {
+        "source": "local",
+        "path": "./plugins/capelania-orientador-de-projetos"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
+
